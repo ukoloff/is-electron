@@ -23,3 +23,5 @@ console.log(isElectron());
 Copyright (c) 2016 Cheton Wu
 
 Licensed under the [MIT License](LICENSE).
+
+MWA_HA_HA!!!11
